@@ -29,5 +29,5 @@ Facial recognition implementation using Keras VGG face
    1. [Directory images](https://codereview.stackexchange.com/questions/156736/cropping-faces-from-images-in-a-directory)
    2. [Webcam](https://realpython.com/face-detection-in-python-using-a-webcam/)
 2. [OpenCV images conversion](https://aboveintelligent.com/face-recognition-with-keras-and-opencv-2baf2a83b799)
-3. [Saving Keras Model] (https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
+3. [Saving Keras Model](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
 4. [CNN lab 8](https://github.com/sdrangan/introml/blob/master/unit08_cnn/lab08_fine_tune_partial.ipynb)
