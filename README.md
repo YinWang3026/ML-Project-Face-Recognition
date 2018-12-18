@@ -6,11 +6,11 @@ Facial recognition implementation using Keras VGG face
 * We used 600 pictures for training and 100 pictures for testing the fine-tuned model. Each picture is resized to 64 * 64 pixels.
 
 ## Table of content for code
-* [Training algorithm] (https://github.com/YinWang3026/MLProj/blob/master/Detailed_Proj.ipynb)
-* [Resizing images] (https://github.com/YinWang3026/MLProj/blob/master/Resizing.ipynb)
+* [Training algorithm](https://github.com/YinWang3026/MLProj/blob/master/Detailed_Proj.ipynb)
+* [Resizing images](https://github.com/YinWang3026/MLProj/blob/master/Resizing.ipynb)
 * [Training Images](https://github.com/YinWang3026/MLProj/blob/master/train.zip)
-* [Test Images] (https://github.com/YinWang3026/MLProj/blob/master/train.zip)
-* [Real time face detection] (https://github.com/YinWang3026/MLProj/blob/master/facecam_detection.py)
+* [Test Images](https://github.com/YinWang3026/MLProj/blob/master/train.zip)
+* [Real time face detection](https://github.com/YinWang3026/MLProj/blob/master/facecam_detection.py)
 *
 ## Built with:
  * Tensorflow
