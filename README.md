@@ -4,6 +4,6 @@
  * Tensorflow
  * Keras
  * Open CV
- * VGG Face [https://github.com/rcmalli/keras-vggface]
+ * [VGG Face](https://github.com/rcmalli/keras-vggface)
  * Flickerapi
  
