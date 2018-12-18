@@ -11,7 +11,7 @@ Facial recognition implementation using Keras VGG face
 * [Training Images](https://github.com/YinWang3026/MLProj/blob/master/train.zip)
 * [Test Images](https://github.com/YinWang3026/MLProj/blob/master/train.zip)
 * [Real time face detection](https://github.com/YinWang3026/MLProj/blob/master/facecam_detection.py)
-*
+
 ## Built with:
  * Tensorflow
  * Keras
