@@ -2,8 +2,8 @@
 Facial recognition implementation using Keras VGG face
 
 ## Project Summary
-* This project uses Open CV library to locate a face in real time from video recording and the face will be classified as either Yining, Mohammad, or a stranger. This recognition is accomplished by fine-tuning a pre-trained deep neural network(VGG Face) in which the final layers of the network are retrained to fit this objective.
-* We used 600 pictures for training and 100 pictures for testing the fine-tuned model. Each picture is resized to 64 * 64 pixels.
+* This project uses Open CV library to locate a face in real time from video recording and the face will be classified as either Yining, Mohammad, or a stranger. This recognition is accomplished through fine-tuning a pre-trained deep neural network (VGG Face) in which the weights of the final layers in the network are retrained to fit this project.
+* We used 600 pictures for training and 100 pictures for testing the model. Each picture is resized to 64 * 64 pixels.
 
 ## Table of content for code
 * [Training algorithm](https://github.com/YinWang3026/MLProj/blob/master/Detailed_Proj.ipynb)
