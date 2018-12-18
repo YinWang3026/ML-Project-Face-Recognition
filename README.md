@@ -1,9 +1,10 @@
 # Machine Learning
-Facial recognition implementation using Keras VGG face
-Important note: The weights and model are not in github due to large size.
-Please run the machine learning program (jyupter notebook) first to generate weight and model.
-Run face_detection.py for still images
-Run facecam_detection.py for video images
+* Facial recognition implementation using Keras VGG face
+* Important note: 
+* The weights and model are not in github due to large size.
+* Please run the machine learning program (jyupter notebook) first to generate weight and model.
+* Run face_detection.py for still images
+* Run facecam_detection.py for video images
 
 ## Project Summary
 * This project uses Open CV library to locate a face in real time from video recording and the face will be classified as either Yining, Mohammad, or a stranger. This recognition is accomplished through fine-tuning a pre-trained deep neural network (VGG Face) in which the weights of the final layers in the network are retrained to fit this project.
