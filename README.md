@@ -1,2 +1,10 @@
 # Machine Learning Project
-Objective:
+
+
+#Built with
+ Tensorflow
+ Keras
+ Open CV
+ VGG Face
+ Flickerapi
+ 
